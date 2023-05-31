@@ -103,7 +103,7 @@ a {
 }
 
 .hero {
-  background-image: url(/img/background.png);
+  background-image: url(https://github.com/sergeysheva32/simplychocolate/blob/main/img/background.png);
   background-size: cover;
   margin: 0;
   border-radius: 30px;
