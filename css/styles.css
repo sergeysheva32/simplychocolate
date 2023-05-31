@@ -16,7 +16,7 @@ body {
   background-color: var(--page-background-color);
   margin: 0;
   padding: 0;
-  max-width: 1200px;
+  min-width: 1280px;
 }
 
 h1,
@@ -107,7 +107,7 @@ a {
   background-size: cover;
   margin: 0;
   border-radius: 30px;
-  min-width: 1136px;
+  min-width: 1280px;
 }
 .hero h1 {
   padding-top: 381px;
